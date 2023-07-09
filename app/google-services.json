@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "222258408150",
+    "project_id": "snake-mitra-app",
+    "storage_bucket": "snake-mitra-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222258408150:android:b1b2c79cce3de3a1177777",
+        "android_client_info": {
+          "package_name": "com.example.snakemitra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222258408150-rss726fpdde54g18h9puemanva5qr6n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpg0LmqVq-e9W83suvRAiS8rTKqUSoZrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222258408150-rss726fpdde54g18h9puemanva5qr6n9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
